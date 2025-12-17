@@ -16,5 +16,35 @@ The analysis helps in understanding booking success rates, ride cancellations, c
 <br>6.To analyze payment methods used by customers
 <br>7.To compute total revenue from successful rides
 <br>8.To identify reasons for incomplete rides
-
 # Tools & Technologies Used
+<br>1.MySQL / SQL
+Data extraction, filtering, aggregation, and view creation
+<br>2.Power BI
+Data visualization and dashboard creation
+<br>3.MS Excel
+Data cleaning and inspection
+<br>4.Windows OS
+Development environment
+# Dataset Description
+The dataset contains ride booking information including:
+
+<br>1.Booking ID
+<br>2.Customer ID
+<br>3.Vehicle Type
+<br>4.Ride Distance
+<br>5.Booking Status
+<br>6.Payment Method
+<br>7.Driver Ratings
+<br>8.Customer Ratings
+<br>9.Booking Value
+<br>10.Cancellation & Incomplete Ride Reasons
+# Methodology
+<br>1.Created a database and imported booking data
+<br>2.Used SQL views to answer key business questions such as:
+• Successful bookings
+• Cancelled rides (customer & driver)
+• Average distance per vehicle
+• Top customers
+• Payment analysis
+• Revenue calculation
+
