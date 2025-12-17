@@ -41,10 +41,24 @@ The dataset contains ride booking information including:
 # Methodology
 <br>1.Created a database and imported booking data
 <br>2.Used SQL views to answer key business questions such as:
-• Successful bookings
-• Cancelled rides (customer & driver)
-• Average distance per vehicle
-• Top customers
-• Payment analysis
-• Revenue calculation
-
+<br>• Successful bookings
+<br>• Cancelled rides (customer & driver)
+<br>• Average distance per vehicle
+<br>• Top customers
+<br>• Payment analysis
+<br>• Revenue calculation
+<br>3.Connected SQL data to Power BI
+<br>4.Built interactive dashboards to visualize insights
+# Key Insights
+<br>Prime Sedan shows distinct driver rating trends
+<br>UPI is a widely used payment method
+<br>Certain customers frequently book rides (high-value users)
+<br>Customer-side cancellations are more common than driver-side
+<br>Incomplete rides have identifiable reasons that can be reduced operationally
+# Conclusion
+This project demonstrates how SQL and Power BI can be effectively used for real-world business analytics.
+The insights obtained can help OLA improve:
+<br>Customer experience
+<br>Driver performance
+<br>Revenue optimization
+<br>Operational decision-making
