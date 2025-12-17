@@ -8,13 +8,13 @@ In today’s competitive ride-hailing industry, data-driven decision-making play
 This project focuses on analyzing ride booking data of OLA using SQL for data querying and Power BI for visualization.
 The analysis helps in understanding booking success rates, ride cancellations, customer behavior, payment preferences, and performance metrics of drivers and vehicles.
 # Objectives of the Project
-<br>The main objectives of this project are:
-<br>To analyze successful and cancelled ride bookings
-<br>To identify top customers based on ride frequency
-<br>To calculate average ride distance by vehicle type
-<br>To evaluate driver and customer ratings
-<br>To analyze payment methods used by customers
-<br>To compute total revenue from successful rides
-<br>To identify reasons for incomplete rides
+<br>1.The main objectives of this project are:
+<br>2.To analyze successful and cancelled ride bookings
+<br>3.To identify top customers based on ride frequency
+<br>4.To calculate average ride distance by vehicle type
+<br>5.To evaluate driver and customer ratings
+<br>6.To analyze payment methods used by customers
+<br>7.To compute total revenue from successful rides
+<br>8.To identify reasons for incomplete rides
 
 # Tools & Technologies Used
